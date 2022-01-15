@@ -1,0 +1,9 @@
+name, gender, score_deep_learning, label_deep_learning, score_singularity, label_singularity, score_logic, label_logic, score_planning, label_planning, score_autonomous, label_autonomous
+
+Erik, M, 0.928029, positive, 0.771033, positive, 0.82221, positive, 0.639869, positive, -0.919156, negative
+Janice, F, 0, neutral, 0, neutral, 0.566646, positive, 0, neutral, 0, neutral, 0.566646, positive
+Audrey, F, 0, neutral, 0.447197, positive, 0.484966, positive, -0.587805, negative
+Wilhelmus, M, 0.678549, positive, 0.330773, positive, 0.381476, positive, 0.90953, positive, -0.558547, negative
+Christ, M, 0.726781, positive, 0.446219, positive, 0.847251, positive, 0.92711, positive, 0.671205, positive
+Daphne, F, 0, neutral, -0.742805, negative, -0.607628, negative, 0, neutral, 0, neutral
+Hugo, 0, neutral, 0,947817, positive, 0,935736, positive, 0,935736, positive, 0, negative
